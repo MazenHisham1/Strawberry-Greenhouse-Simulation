@@ -1,0 +1,34 @@
+STRAWBERRY FARM INSPECTION REPORT
+Generated: 2026-10-27 21:14
+
+Coverage: 80 of 80 plants inspected (100%)
+Note: results are suspected visual symptoms, not confirmed diagnoses.
+
+Summary
+  healthy           62
+  yellowing          8
+  leaf spot          5
+  powdery mildew     5
+
+Plants needing follow-up: 18
+  Plant    Suspected condition  Location (x, y) m
+  ST-014   leaf spot            (7.0, 0.0)
+  ST-015   yellowing            (7.5, 0.0)
+  ST-017   yellowing            (8.5, 0.0)
+  ST-032   yellowing            (6.0, 1.4)
+  ST-041   yellowing            (0.5, 2.8)
+  ST-042   leaf spot            (1.0, 2.8)
+  ST-045   yellowing            (2.5, 2.8)
+  ST-052   powdery mildew       (6.0, 2.8)
+  ST-055   yellowing            (7.5, 2.8)
+  ST-056   powdery mildew       (8.0, 2.8)
+  ST-060   leaf spot            (10.0, 2.8)
+  ST-061   powdery mildew       (0.5, 4.2)
+  ST-065   yellowing            (2.5, 4.2)
+  ST-069   yellowing            (4.5, 4.2)
+  ST-071   powdery mildew       (5.5, 4.2)
+  ST-075   leaf spot            (7.5, 4.2)
+  ST-076   powdery mildew       (8.0, 4.2)
+  ST-078   leaf spot            (9.0, 4.2)
+
+Simulation check: detector agreed with the farm's answer key on 80 of 80 plants.
